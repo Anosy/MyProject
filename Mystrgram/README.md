@@ -12,4 +12,8 @@ view.py，视图文件，主要为网站创建路径<br>
 manage.py 脚本文件，主要负责数据库的初始化<br>
 runserver.py 启动服务<br>
 ## 效果图
+![](https://github.com/Anosy/MyProject/blob/master/Mystrgram/res_picture/login.jpg)
+![](https://github.com/Anosy/MyProject/blob/master/Mystrgram/res_picture/profile.jpg)
+![](https://github.com/Anosy/MyProject/blob/master/Mystrgram/res_picture/index.jpg)
+![](https://github.com/Anosy/MyProject/blob/master/Mystrgram/res_picture/detail.jpg)
 
