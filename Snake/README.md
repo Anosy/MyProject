@@ -56,7 +56,7 @@ go_ahead()<br>
 更新当前的长度<br>
 
 <br>
-**4.效果图**
+**4.效果图**<br>
 ![](https://github.com/Anosy/MyProject/blob/master/Snake/picture/game.png)<br>
 ![](https://github.com/Anosy/MyProject/blob/master/Snake/picture/gameover.png)<br>
 ![](https://github.com/Anosy/MyProject/blob/master/Snake/picture/welcome.png)<br>
