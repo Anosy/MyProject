@@ -57,9 +57,9 @@ go_ahead()<br>
 
 <br>
 **4.效果图**
-![](https://github.com/Anosy/MyProject/blob/master/Snake/picture/game.png)
-![](https://github.com/Anosy/MyProject/blob/master/Snake/picture/gameover.png)
-![](https://github.com/Anosy/MyProject/blob/master/Snake/picture/welcome.png)
+![](https://github.com/Anosy/MyProject/blob/master/Snake/picture/game.png)<br>
+![](https://github.com/Anosy/MyProject/blob/master/Snake/picture/gameover.png)<br>
+![](https://github.com/Anosy/MyProject/blob/master/Snake/picture/welcome.png)<br>
 
 
 
